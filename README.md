@@ -1,10 +1,10 @@
-## Estudos sobre o Spring Security
+## Estudos sobre o Spring Security 🍃🔐
 
-### Sobre o projeto
+### Sobre o projeto 📚
 
-#### O prejeto visa abordar conceitos de seguraça como: autenticação e autorização por meio do Oauth2 e token jwt
+O projeto visa abordar conceitos de seguraça como: autenticação e autorização por meio do Oauth2 e token jwt.
 
-### Ferramentas utilizadas
+### Ferramentas utilizadas 🛠️
 
  * Spring tools suite
  * Spring boot
@@ -13,12 +13,12 @@
  * Maven
  * Git - Github
 
-### Tecnologias
+### Tecnologias 🧑🏻‍💻
 
  * Java
  * SQL
    
-### principais dependências
+### principais dependências 
 
  * Oauth2 https://oauth.net/2/
  * Spring security
